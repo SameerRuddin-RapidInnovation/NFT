@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/SameerRuddin-RapidInnovation/NFT.git",
   "author": "SAMEERRUDDIN <shaiksameerrudin@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
+    "hardhat": "^2.8.3"
+  }
 }
