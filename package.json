@@ -1,0 +1,8 @@
+{
+  "name": "NFTS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SameerRuddin-RapidInnovation/NFT.git",
+  "author": "SAMEERRUDDIN <shaiksameerrudin@gmail.com>",
+  "license": "MIT"
+}
